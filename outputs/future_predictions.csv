@@ -1,0 +1,7 @@
+Scenario,Predicted_Demand,Stockout_Probability_%,Risk_Level,Recommended_Order_Qty,Safety_Stock,Reorder_Point
+Berhampore | Jan 2025 (Winter + Festival),1,14.36,LOW RISK,1,0,0
+Farakka | Jun 2025 (Monsoon),1,1.37,LOW RISK,1,0,0
+Kandi | Oct 2025 (Durga Puja Peak),1,3.38,LOW RISK,1,0,0
+Raghunathganj | Dec 2025 (Peak Winter),1,6.71,LOW RISK,1,0,0
+Samserganj | Mar 2025 (Summer),1,1.77,LOW RISK,1,0,0
+Suti | Nov 2025 (Diwali/Kali Puja),1,3.04,LOW RISK,1,0,0
